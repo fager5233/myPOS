@@ -1,1 +1,3 @@
 这是我用于学习的一个文件，学习如何使用vue
+this is a test, i don't show everything.
+I just try to use Git
